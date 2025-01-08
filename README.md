@@ -1,8 +1,8 @@
 # QPoisson
-[![license](https://img.shields.io/github/license/MuGemSt/QPoisson.svg)](https://github.com/MuGemSt/QPoisson/blob/main/LICENSE)
-[![Build status](https://ci.appveyor.com/api/projects/status/832yt4vq8lw6hgjr?svg=true)](https://ci.appveyor.com/project/MuGemSt/qpoisson)
-[![GitHub release](https://img.shields.io/github/release/MuGemSt/QPoisson.svg)](https://github.com/MuGemSt/QPoisson/releases/latest)
-[![bilibili](https://img.shields.io/badge/bilibili-BV1aMDZYnEtN-fc8bab.svg)](https://www.bilibili.com/video/BV1aMDZYnEtN)
+[![license](https://img.shields.io/github/license/Genius-Society/QPoisson.svg)](https://github.com/Genius-Society/QPoisson/blob/main/LICENSE)
+[![Build status](https://ci.appveyor.com/api/projects/status/832yt4vq8lw6hgjr?svg=true)](https://ci.appveyor.com/project/Genius-Society/qpoisson)
+[![GitHub release](https://img.shields.io/github/release/Genius-Society/QPoisson.svg)](https://github.com/Genius-Society/QPoisson/releases/latest)
+[![bilibili](https://img.shields.io/badge/bilibili-BV13YrgY4Est-fc8bab.svg)](https://www.bilibili.com/video/BV13YrgY4Est)
 
 Implement Poisson blending algorithm in a simple photo editor with Qt Frame on Windows.
 
@@ -14,7 +14,7 @@ Implement Poisson blending algorithm in a simple photo editor with Qt Frame on W
 
 ## Download
 ```bash
-git clone https://github.com/MuGemSt/QPoisson.git
+git clone https://github.com/Genius-Society/QPoisson.git
 cd QPoisson
 ```
 
