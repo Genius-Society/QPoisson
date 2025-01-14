@@ -1,7 +1,7 @@
 # QPoisson
 [![license](https://img.shields.io/github/license/Genius-Society/QPoisson.svg)](https://github.com/Genius-Society/QPoisson/blob/main/LICENSE)
 [![Build status](https://ci.appveyor.com/api/projects/status/832yt4vq8lw6hgjr?svg=true)](https://ci.appveyor.com/project/Genius-Society/qpoisson)
-[![GitHub release](https://img.shields.io/github/release/Genius-Society/QPoisson.svg)](https://github.com/Genius-Society/QPoisson/releases/latest)
+[![sourceforge](https://img.shields.io/badge/sourceforge-QPoisson-ff6600.svg)](https://sourceforge.net/projects/qpoisson/files)
 [![bilibili](https://img.shields.io/badge/bilibili-BV13YrgY4Est-fc8bab.svg)](https://www.bilibili.com/video/BV13YrgY4Est)
 
 Implement Poisson blending algorithm in a simple photo editor with Qt Frame on Windows.
