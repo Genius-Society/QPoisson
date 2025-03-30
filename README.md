@@ -1,10 +1,10 @@
 # QPoisson
 [![license](https://img.shields.io/github/license/Genius-Society/QPoisson.svg)](https://github.com/Genius-Society/QPoisson/blob/main/LICENSE)
 [![Build status](https://ci.appveyor.com/api/projects/status/832yt4vq8lw6hgjr?svg=true)](https://ci.appveyor.com/project/Genius-Society/qpoisson)
-[![sourceforge](https://img.shields.io/badge/sourceforge-QPoisson-ff6600.svg)](https://sourceforge.net/projects/qpoisson/files)
-[![bilibili](https://img.shields.io/badge/bilibili-BV13YrgY4Est-fc8bab.svg)](https://www.bilibili.com/video/BV13YrgY4Est)
+[![sf](https://img.shields.io/badge/release-SourceForge-ff6600.svg)](https://sourceforge.net/projects/qpoisson/files)
+[![bili](https://img.shields.io/badge/bilibili-BV13YrgY4Est-fc8bab.svg)](https://www.bilibili.com/video/BV13YrgY4Est)
 
-Implement Poisson blending algorithm in a simple photo editor with Qt Frame on Windows.
+Implement Poisson blending algorithm in a simple photo editor with C++ Qt Frame on Windows.
 
 ## Usage
 | Click ![](https://user-images.githubusercontent.com/20459298/233123164-23dac4e6-6488-4686-b458-1d5bba09b72e.png) to open dest img, then click ![](https://user-images.githubusercontent.com/20459298/233123278-290fe42e-0731-45fe-9d1a-85b876947311.png) to open src img                                           | ![](https://user-images.githubusercontent.com/20459298/233123365-cfa819c6-60e0-4b47-9b7e-12f5b439e513.PNG) |
@@ -12,7 +12,7 @@ Implement Poisson blending algorithm in a simple photo editor with Qt Frame on W
 | <b>Click ![](https://user-images.githubusercontent.com/20459298/233123432-9c14faa7-fe41-44f0-9857-0ea282d95cd7.png) to circle an area on src img, then click ![](https://user-images.githubusercontent.com/20459298/233123647-b854bb57-391c-4cd6-bf9c-accd84539437.png) to paste the circled area onto dst img</b> | ![](https://user-images.githubusercontent.com/20459298/233123748-3634ce53-28f4-44c6-9d39-9bccfac3fbf3.PNG) |
 | <b>Click ![](https://user-images.githubusercontent.com/20459298/233123837-eb66ca36-32ac-495d-810a-0db32e5a3ba3.png) to blend the pasted area into dst img</b>                                                                                                                                                      | ![](https://user-images.githubusercontent.com/20459298/233123915-39ee1092-9c09-4e99-9539-e2cd36301e4c.PNG) |
 
-## Download
+## Code download
 ```bash
 git clone git@github.com:Genius-Society/QPoisson.git
 cd QPoisson
