@@ -1,6 +1,6 @@
 # QPoisson
 [![license](https://img.shields.io/github/license/Genius-Society/QPoisson.svg)](https://github.com/Genius-Society/QPoisson/blob/main/LICENSE)
-[![Build status](https://ci.appveyor.com/api/projects/status/832yt4vq8lw6hgjr?svg=true)](https://ci.appveyor.com/project/Genius-Society/qpoisson)
+[![Build status](https://ci.appveyor.com/api/projects/status/832yt4vq8lw6hgjr/branch/main?svg=true)](https://ci.appveyor.com/project/Genius-Society/qpoisson/branch/main)
 [![sf](https://img.shields.io/badge/release-SourceForge-ff6600.svg)](https://sourceforge.net/projects/qpoisson/files)
 [![bili](https://img.shields.io/badge/bilibili-BV13YrgY4Est-fc8bab.svg)](https://www.bilibili.com/video/BV13YrgY4Est)
 
